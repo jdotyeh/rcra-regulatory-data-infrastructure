@@ -13,6 +13,15 @@ Icon?
 *.swo
 *~
 
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+*.Rproj
+*.tar.gz
+*.tgz
+
+
 # ---- Data (too large for GitHub; see data/README.md to re-download) ----
 data/rcra_downloads/
 data/pipeline_rcra_downloads/

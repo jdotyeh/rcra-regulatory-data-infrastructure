@@ -1,6 +1,5 @@
 ## Overview
 
-**Unit of analysis:** Individual handler facilities — TSDFs, generators, and transporters.  
 **Criterion:** Must appear in the Handler Reporting Universe table (`HREPORT_UNIVERSE_RECORD`).  
 Only TSDFs are required to hold a RCRA permit.
 
